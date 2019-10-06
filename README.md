@@ -31,7 +31,7 @@
 	 - Run the project in production mode with two steps
 		- To make a production build
      		>yarn run build
-		- To Run build - In a Linux system
+		- To run in Linux
 			>yarn run serve
-		- To Run in Window 
+		- To run in Window 
 			>yarn run serve:win
