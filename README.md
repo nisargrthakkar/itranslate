@@ -22,7 +22,7 @@
 ## Kindly follow below mentioned steps to  run the project
 
  - Go into the project directory
-	>  cd  ..../itranslate
+	>  cd  ..../itranslate-assignment
 - Run following command (This Command help to install all dependency package)
 	> yarn install 
 - Now run project can run in two modes 
